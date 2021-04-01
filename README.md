@@ -1,5 +1,6 @@
 # HEBVaccineTelegramBot
 This is a bot that scrapes the HEB vaccine portal for open appointments within a search radius for a select zip code, then posts the link in a telegram channel in real time.
+Gets content from here: https://vaccine.heb.com/scheduler?q=78705
 
 Preview: https://i.gyazo.com/9b5e706983f4c5bd1862f416d044f14a.png
 
