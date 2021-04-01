@@ -3,6 +3,8 @@ This is a bot that scrapes the HEB vaccine portal for open appointments within a
 
 Preview: https://i.gyazo.com/9b5e706983f4c5bd1862f416d044f14a.png
 
+Requires ChromeDriver from here: https://chromedriver.chromium.org/downloads place this in your main directory.
+
 https://pastebin.com/Y7R6wEZt
 
 ## Objective: Get to the HEB vaccination registration as fast as possible. You need to select a date and timeslot, then press continue to guarantee yourself a spot. 
